@@ -1,0 +1,20 @@
+Locales ['de'] = {
+    ['valid_purchase'] 			= 'Diesen Kauf bestätigen?',
+    ['yes'] 					= 'Ja',
+    ['no'] 						= 'Nein',
+    ['helmet'] 					= 'Helme und Hüte',
+    ['glasses'] 				= 'Brillen',
+    ['mask'] 					= 'Masken',
+    ['ears'] 					= 'Ohrenschmuck',
+    ['shop'] 					= 'Geschäft',
+    ['set_unset'] 				= 'Anziehen oder Abnehmen',
+    ['not_enough_money'] 		= 'Du hast nicht genug Geld für diese Aktion!',
+    ['press_access'] 			= 'Benutze ~INPUT_CONTEXT~ um das Menu zu öffen.',
+    ['accessories_blip'] 		= 'Accessoires',
+    ['no_ears'] 				= 'Du hast keinen Ohrschmuck!',
+    ['no_glasses'] 				= 'Du hast keine Brillen!',
+    ['no_helmet'] 				= 'Du hast keinen Helme oder Hüte!',
+    ['no_mask'] 				= 'Du hast keine Masken!',
+    ['you_paid'] 				= 'Du hast bezahlt: ',
+
+}
